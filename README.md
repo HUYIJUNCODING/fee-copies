@@ -1,6 +1,6 @@
 # fee 灯塔项目运行环境安装及配置
 
->官方教程是使用 docker (比较耗费内存和性能) 集成环境,本教程使用适用于 linux 的 Windows(Windows10) 子系统 WSL 2 分发安装 ubuntu
+>官方教程是使用 docker (比较耗费内存和性能) 集成环境,本教程使用适用于 linux 的 Windows(Windows10) 子系统 WSL 2 分发(ubuntu)
 
 ## 1.下载安装 WSL 2
 [安装WSL 2 官方教程](https://docs.microsoft.com/zh-cn/windows/wsl/about)
